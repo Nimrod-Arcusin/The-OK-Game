@@ -10,14 +10,14 @@ div {
 }
 
 h1 {
-    font-size: 2.2rem;
-    padding: 0.3rem 0.8rem 0.8rem 0.8rem;
+    font-size: 4rem;
+    padding: 1rem 2rem 1rem 2rem;
     margin: 0;
 }
 
 h2 {
-    font-size: 1.6rem;
-    padding: 0.3rem 0.8rem 0.5rem 0.8rem;
+    font-size: 3rem;
+    padding: 1rem 2rem 1rem 2rem;
     margin: 0.6rem 0 0.2rem;
 }
 
@@ -26,7 +26,7 @@ h2 {
   background-color: #a8dadc;
   box-shadow: 0 5px 0 #457b9d;
   padding: 0.5rem 1rem;
-  margin: 0.3rem 0.8rem 0 0;
+  margin: 1rem 2rem 0 0;
   position: relative;
   text-decoration: none;
   text-transform: uppercase;
@@ -48,7 +48,7 @@ h2 {
 
 .option {
   padding-bottom: 2rem;
-  font-size: 1.2rem;
+  font-size: 2.2rem;
 }
 
 
